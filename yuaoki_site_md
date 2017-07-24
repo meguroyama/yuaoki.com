@@ -1,13 +1,16 @@
 # Yu Aoki
+---
 
 ## Social Networks
 
-- Twitter : Test
-- Github : Test
+![twitterfavicon](https://abs.twimg.com/a/1500578079/img/t1/favicon.svg) **Twitter** : [cloudisfun@](https://twitter.com/cloudisfun) 
+- **Github** : [gotenyama](https://github.com/gotenyama)
 
-## Public PGP key
-```
+### Public PGP key
+
+```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 xsFNBFlsCaABEADE3Xzv1rcyfELLjpa7HM6QN+dCJXYxauroyoL9zYtlJsC+
 B3yqE/dk9o+T10rMD8cOjEbEO2IhaRxbrXlurGFNFaHWOnVC5H6Sy1Bi/nG7
 UQCpmK+cpeW5mK5jxVBlhIV5xg1hPVdgKLjr1DTA6CGfRRzGACbfzr/Gp4RR
@@ -59,5 +62,6 @@ cg0XVkkmFVAkzsIvRds9MaoEjqzffdtZYyhFPDoHHz8bSci+GAxokhH78mW9
 ZYxPSJqpmBTsgSke1w248SnLcPWwqMvqiK5J6uF4eHKPhbA4wWga3V1Y+ywq
 O3idgsMfcZnTRQ==
 =U2zB
+
 -----END PGP PUBLIC KEY BLOCK-----
 ```
